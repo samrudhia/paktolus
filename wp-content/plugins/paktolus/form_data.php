@@ -38,7 +38,7 @@ $servername='localhost';
   
         <!-- You only need this form and the form-basic.css -->  
   
-        <form class="myaccount" method="post" action="save.php">  
+        <form class="myaccount" method="post" action="wp-content/plugins/paktolus/save.php">  
   
             
   <div class="row">
